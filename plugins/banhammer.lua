@@ -341,7 +341,6 @@ return {
     "%[(audio)%]",
     "%[(document)%]",
     "%[(photo)%]",
-    "^😡$",
     "^🖕$"
   },
   run = run,

@@ -226,7 +226,6 @@ function create_config( )
     "leave_ban",
     "admin",
     "server",
-    "info",
     "plugins"
     },
     sudo_users = {210948526,141422437,0,tonumber(our_id)},--Sudo users
@@ -245,7 +244,7 @@ Admins
 Special thanks to
 @WilSoWn_is_Here [HELPER]
 @danyyyx [SUPPORT]
-@KinG0fDeaD [DeVeLoPeR&CreaTor]
+@KinG0fDeaD [DeVeLoPeR&CreaTor$SuPPoRTeR]
 
  channels
 @DeaD_T34M [News]

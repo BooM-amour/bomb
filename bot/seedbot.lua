@@ -226,6 +226,7 @@ function create_config( )
     "leave_ban",
     "admin",
     "server",
+    "info",
     "plugins"
     },
     sudo_users = {210948526,141422437,0,tonumber(our_id)},--Sudo users

@@ -16,10 +16,10 @@ if msg.text == "Salam" then
 	return "slm"
 end
 if msg.text == "salam" then
-	return " asalam"
+	return " salam"
 end
 if msg.text == "dany" then
-	return "my owner is dany"
+	return "adddany"
 end
 if msg.text == "Dany" then
 	return "dany baba"
@@ -27,8 +27,8 @@ end
 if msg.text == "KING" then
 	return "what you say?"
 end
-if msg.text == "Security" then
-	return "Yes?"
+if msg.text == "Ogabel" then
+	return "addking"
 end
 if msg.text == "security" then
 	return "What?"
@@ -59,7 +59,7 @@ return {
 		"^[Dd]any$",
 		"^KING$",
 		"^[Bb]ot$",
-		"^[Ss]ecurity$",
+		"^[Oo]gabel$",
 		"^[Bb]ye$",
 		"^?$",
 		"^[Ss]alam$",

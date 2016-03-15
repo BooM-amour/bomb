@@ -431,11 +431,11 @@ EX: (calc 2 + 2)
 EX: (google DEAD)
 
 🐶DOGIFY✔️
-EX: (dogify ((youre TxT))
+EX: (dogify [TxT])
 
      ❤️D❤️E❤️A❤️D❤️
 To support can type
- 😋adddany😋 &😋addking😋
+ 😋adddany😋or😋addking😋
 
 😝Have a nice TimE
 

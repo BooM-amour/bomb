@@ -14,12 +14,8 @@ local function run(msg, matches)
   description = "a Usefull plugin for sudo !",
   usage = "A plugins to add Another plugins to the server",
   patterns = {
-    "^!addplugin +(.+) (.*) (.*)$"
+    "^addplugin +(.+) (.*) (.*)$"
   },
   run = run
 }
 
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است

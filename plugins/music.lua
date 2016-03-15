@@ -81,13 +81,10 @@ do
     description = 'Search and get music from pleer',
     usage = '!music [track name or artist and track name]: Search and get the music',
     patterns = {
-    '^!music (.*)$'
+    '^music (.*)$'
     },
     run = run
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+

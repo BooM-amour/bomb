@@ -421,15 +421,23 @@ will return group logs
 📖banlist✔️
 will return group ban list
 
+🙈boobs or butts✔️
+                  🔞
+
+➗Calculator ✔️
+EX: (calc 2 + 2) 
+
+🌏Google✔️
+EX: (google DEAD)
+
+🐶DOGIFY✔️
+EX: (dogify ((youre TxT))
+
      ❤️D❤️E❤️A❤️D❤️
+To support can type
+ 😋adddany😋 &😋addking😋
 
-
-Only owner and mods can add bots in group
-
-
-Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-Only owner can use res,setowner,promote,demote and log commands
+😝Have a nice TimE
 
 ]]
   }
